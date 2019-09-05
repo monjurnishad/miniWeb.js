@@ -1,0 +1,29 @@
+{
+  "name": "monjur-hasan-ait-hw-03",
+  "version": "1.0.0",
+  "description": "a mini framework",
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyu-csci-ua-0480-008-spring-2019/monjur-hasan-homework03.git"
+  },
+  "author": "monjur-hasan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0480-008-spring-2019/monjur-hasan-homework03/issues"
+  },
+  "homepage": "https://github.com/nyu-csci-ua-0480-008-spring-2019/monjur-hasan-homework03#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-match": "^1.1.1",
+    "mocha": "^6.0.1",
+    "mocha-sinon": "^2.1.0",
+    "sinon": "^7.2.4"
+  }
+}
